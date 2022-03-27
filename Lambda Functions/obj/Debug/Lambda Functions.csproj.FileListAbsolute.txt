@@ -1,0 +1,7 @@
+C:\Users\color\source\repos\Week2_Practice_Concepts\Lambda Functions\bin\Debug\Lambda Functions.exe.config
+C:\Users\color\source\repos\Week2_Practice_Concepts\Lambda Functions\bin\Debug\Lambda Functions.exe
+C:\Users\color\source\repos\Week2_Practice_Concepts\Lambda Functions\bin\Debug\Lambda Functions.pdb
+C:\Users\color\source\repos\Week2_Practice_Concepts\Lambda Functions\obj\Debug\Lambda Functions.csproj.AssemblyReference.cache
+C:\Users\color\source\repos\Week2_Practice_Concepts\Lambda Functions\obj\Debug\Lambda Functions.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\Week2_Practice_Concepts\Lambda Functions\obj\Debug\Lambda Functions.exe
+C:\Users\color\source\repos\Week2_Practice_Concepts\Lambda Functions\obj\Debug\Lambda Functions.pdb

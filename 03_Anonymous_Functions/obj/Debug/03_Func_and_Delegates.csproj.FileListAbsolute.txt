@@ -1,0 +1,6 @@
+C:\Users\color\source\repos\Week2_Practice_Concepts\03_Anonymous_Functions\bin\Debug\03_Anonymous_Functions.exe.config
+C:\Users\color\source\repos\Week2_Practice_Concepts\03_Anonymous_Functions\bin\Debug\03_Anonymous_Functions.exe
+C:\Users\color\source\repos\Week2_Practice_Concepts\03_Anonymous_Functions\bin\Debug\03_Anonymous_Functions.pdb
+C:\Users\color\source\repos\Week2_Practice_Concepts\03_Anonymous_Functions\obj\Debug\03_Func_and_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\Week2_Practice_Concepts\03_Anonymous_Functions\obj\Debug\03_Anonymous_Functions.exe
+C:\Users\color\source\repos\Week2_Practice_Concepts\03_Anonymous_Functions\obj\Debug\03_Anonymous_Functions.pdb

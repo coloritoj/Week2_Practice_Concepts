@@ -1,0 +1,6 @@
+C:\Users\color\source\repos\Week2_Practice_Concepts\04_Callback_Functions\bin\Debug\04_Callback_Functions.exe.config
+C:\Users\color\source\repos\Week2_Practice_Concepts\04_Callback_Functions\bin\Debug\04_Callback_Functions.exe
+C:\Users\color\source\repos\Week2_Practice_Concepts\04_Callback_Functions\bin\Debug\04_Callback_Functions.pdb
+C:\Users\color\source\repos\Week2_Practice_Concepts\04_Callback_Functions\obj\Debug\04_Callback_Functions.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\Week2_Practice_Concepts\04_Callback_Functions\obj\Debug\04_Callback_Functions.exe
+C:\Users\color\source\repos\Week2_Practice_Concepts\04_Callback_Functions\obj\Debug\04_Callback_Functions.pdb
